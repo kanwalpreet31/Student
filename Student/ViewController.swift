@@ -17,7 +17,7 @@ class ViewController: UIViewController {
 
     override func viewDidAppear(_ animated: Bool) {
         self.performSegue(withIdentifier: "MainView", sender: self);
-        // example
+        // This is demo
     }
     
 }
